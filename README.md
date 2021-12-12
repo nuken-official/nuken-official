@@ -29,3 +29,16 @@ nuken.xyz/editor
 ``
 nuken.xyz/mobile
 ``
+
+![](https://nuken.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsLBAbO3UBRSpBqCNX5ar%2Fuploads%2FQV0eU9OMz3G0zNpD9UTI%2Fimage.png?alt=media&token=64c58072-10ae-47dc-b3dd-d79be9e36e36)
+
+
+
+## In the classroom
+
+**Optimized for hardware that's used in public schools and institutions worldwide.** Any computer with a web browser is compatible - Chromebook to Thinkpad, and everything between. [Let's get started!](http://nuken.xyz/education)
+
+``
+nuken.xyz/education
+``
+
