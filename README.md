@@ -25,16 +25,6 @@ Install our desktop app for more features (on supported platforms). Create, edit
 - Free to download and use, powered by **Electron**
 - Download and install free nuken Shop content
 - Customize your workspace any way you like
+###### **[``nuken.xyz/download``](http://nuken.xyz/download)**
 
 ![](image)
-
-
-
-
-
-
-
-
-
-
-
