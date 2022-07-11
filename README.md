@@ -8,7 +8,7 @@ nuken is a development environment for web-based applications. You can get start
 ![](image)
 
 
-#### Online / Mobile
+### Online / Mobile
 ###### Take nuken anywhere.
 - Works on any device with a web browser
 - Nothing is saved to your device
@@ -17,7 +17,7 @@ nuken is a development environment for web-based applications. You can get start
 ###### **[``nuken.xyz/editor``](http://nuken.xyz/editor)**
 ![](image)
 
-#### Desktop
+### Desktop
 ###### Create, edit and share offline.
 Install our desktop app for more features (on supported platforms). Create, edit, and share like never before - powered by  Electron.
 
