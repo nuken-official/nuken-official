@@ -15,7 +15,8 @@ nuken is a development environment for web-based applications. You can get start
 - Perfect for laptops, computers, and tablets
 
 ###### **[``nuken.xyz/editor``](http://nuken.xyz/editor)**
-![https://nuken.xyz/images/editor3.png](image)
+
+[![](https://nuken.xyz/images/editor3.png)](https://nuken.xyz/download)
 
 ### Desktop
 ###### Create, edit and share offline.
